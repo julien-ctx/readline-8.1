@@ -21,7 +21,7 @@ RL_LIBRARY_VERSION = 8.1
 SHELL = /bin/sh
 RM = rm -f
 
-prefix = /Users/jcauchet/minishell/includes/readline
+prefix = /Users/juliencaucheteux/minishell/includes/readline
 exec_prefix = ${prefix}
 
 datarootdir = ${prefix}/share
@@ -32,7 +32,7 @@ datadir = ${datarootdir}
 
 top_srcdir = ..
 #BUILD_DIR = .
-BUILD_DIR = /Users/jcauchet/minishell/includes/readline
+BUILD_DIR = /Users/juliencaucheteux/minishell/includes/readline
 installdir = $(datadir)/readline
 
 INSTALL = /usr/bin/install -c

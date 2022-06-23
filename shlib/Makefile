@@ -32,7 +32,7 @@ datarootdir = ${prefix}/share
 srcdir = .
 VPATH = ..
 topdir = ..
-BUILD_DIR = /Users/jcauchet/minishell/includes/readline
+BUILD_DIR = /Users/juliencaucheteux/minishell/includes/readline
 
 INSTALL = /usr/bin/install -c
 INSTALL_PROGRAM = ${INSTALL}
@@ -49,10 +49,10 @@ LN = ln
 
 SHELL = /bin/sh
 
-host_os = darwin18.7.0
+host_os = darwin21.4.0
 host_vendor = apple
 
-prefix = /Users/jcauchet/minishell/includes/readline
+prefix = /Users/juliencaucheteux/minishell/includes/readline
 exec_prefix = ${prefix}
 includedir = ${prefix}/include
 bindir = ${exec_prefix}/bin

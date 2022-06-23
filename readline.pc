@@ -1,4 +1,4 @@
-prefix=/Users/jcauchet/minishell/includes/readline
+prefix=/Users/juliencaucheteux/minishell/includes/readline
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
